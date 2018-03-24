@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "9.0"
   # s.frameworks = "UIKit"
 
-  s.dependency "RxSwift", "4.0.0"
+  s.dependency "ReSwift", "4.0.0"
 
   s.pod_target_xcconfig = { "SWIFT_VERSION" => "4.0" }
 
