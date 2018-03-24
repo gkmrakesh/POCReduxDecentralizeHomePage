@@ -1,0 +1,22 @@
+PODS:
+  - HomePage (0.0.1):
+    - RxSwift (= 4.0.0)
+  - RxSwift (4.0.0)
+  - SwiftLint (0.24.0)
+
+DEPENDENCIES:
+  - HomePage (from `./`)
+  - SwiftLint (= 0.24.0)
+
+EXTERNAL SOURCES:
+  HomePage:
+    :path: ./
+
+SPEC CHECKSUMS:
+  HomePage: 255b2c363b3971a40ad622b823821f3db4305e7e
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  SwiftLint: a014c92b4664e8b13f380f8640a51bb1733778ba
+
+PODFILE CHECKSUM: 760b3657f7251ab5879362550fdf36946e21d3f0
+
+COCOAPODS: 1.4.0
